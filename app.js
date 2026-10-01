@@ -3,7 +3,7 @@
  */
 'use strict';
 
-const ACC = { MAIN: '주계좌', DIV: '배당계좌' };
+const ACC = { MAIN: '주계좌', DIV: '부계좌' };
 const TYPE = { BUY: '매수', SELL: '매도', DEPOSIT: '입금', WITHDRAW: '출금' };
 const EPS = 1e-9;
 
